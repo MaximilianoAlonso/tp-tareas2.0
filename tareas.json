@@ -1,0 +1,32 @@
+[
+     {
+          "id": 1,
+          "titulo": "TP-Calculadora",
+          "estado": "Terminada"
+     },
+     {
+          "id": 2,
+          "titulo": "Curso Programacion NODEjs",
+          "estado": "En progreso"
+     },
+     {
+          "id": 3,
+          "titulo": "Tocar guitarra como JoePass",
+          "estado": "En progreso"
+     },
+     {
+          "id": 4,
+          "titulo": "Pagar deudas",
+          "estado": "pendiente"
+     },
+     {
+          "id": 5,
+          "titulo": "Ver clases no terminadas",
+          "estado": "pendiente"
+     },
+     {
+          "id": 6,
+          "titulo": "sh",
+          "estado": "pendiente"
+     }
+]
