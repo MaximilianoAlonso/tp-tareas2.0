@@ -13,7 +13,7 @@ switch (comando) {
         }); 
         console.log("\n")
         break;
-    case "crear": // solo se pasa el numbre de la tarea. el estado siempre sera guardado como "pendiente"
+    case "crear": // solo se pasa el nombre de la tarea. el estado siempre sera guardado como "pendiente"
             nombre = process.argv[3]
             console.log(archivoTareas.guardarTareas(nombre, "pendiente"));
         break;
